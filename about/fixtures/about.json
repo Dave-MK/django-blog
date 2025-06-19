@@ -1,0 +1,11 @@
+[
+    {
+        "model": "about.about",
+        "pk": null,
+        "fields": {
+            "title": "About Me",
+            "content": "<p>I am a software developer with a passion for creating innovative solutions. I have experience in various programming languages and frameworks, and I enjoy working on challenging projects that push my limits.</p>\n<p>In my free time, I love to explore new technologies, contribute to open-source projects, and share my knowledge with the community.</p>",
+            "updated_on": "2025-06-18T09:43:19.754Z"
+        }
+    }
+]
